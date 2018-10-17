@@ -12,4 +12,4 @@ See the [Issues tab](https://github.com/USAID-OHA-SI/TeamTracking/issues) for tr
 - If producing a product, add a link to the issue.
 - When the task is complete, close out the issue.
 
-![image](https://user-images.githubusercontent.com/11572993/47094879-0de5e700-d1fa-11e8-8eaa-8bea3dd6ce92.png)
+![image](https://user-images.githubusercontent.com/36705660/47106016-87d69a00-d213-11e8-8319-07d009198832.JPG)
