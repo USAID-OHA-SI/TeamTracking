@@ -11,3 +11,5 @@ See the [Issues tab](https://github.com/USAID-OHA-SI/TeamTracking/issues) for tr
 - Return to the issue frequently to update status
 - If producing a product, add a link to the issue.
 - When the task is complete, close out the issue.
+
+![image](https://user-images.githubusercontent.com/11572993/47094879-0de5e700-d1fa-11e8-8eaa-8bea3dd6ce92.png)
