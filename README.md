@@ -47,5 +47,7 @@ See the [Issues tab](https://github.com/USAID-OHA-SI/TeamTracking/issues) for tr
 |        Uganda       |                      |                                 |                  |                        |
 |       Ukraine       |                      |                                 |                  |                        |
 |       Vietnam       |                      |                                 |                  |                        |
+|  W. Africa Reg.     |                      |                                 |                  |                        |
+|  W. Hemisphere Reg. |                      |                                 |                  |                        |
 |        Zambia       |                      |                                 |                  |                        |
 |       Zimbabwe      |                      |                                 |                  |                        |
